@@ -1,0 +1,2 @@
+# AutoTestCase
+AutoTestCase是python接口自动化框架
